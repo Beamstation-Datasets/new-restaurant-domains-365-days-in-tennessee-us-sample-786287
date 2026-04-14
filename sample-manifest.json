@@ -1,0 +1,12 @@
+{
+  "export_job_id": "397fdd0f-0971-4367-9382-c857ed6035f5",
+  "id_short": 786287,
+  "published_at": "2026-04-14T19:25:19Z",
+  "repo_name": "new-restaurant-domains-365-days-in-tennessee-us-sample-786287",
+  "sample_asset_name": "beamstation_786287_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/786287/beamstation_786287_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_records": 45,
+  "sample_sha256": "e829878e0c9355e52ea63a8dc057626f0ca03055e2f23264196ea0cc7243a212",
+  "sample_size_bytes": 164500,
+  "total_records": 451
+}
